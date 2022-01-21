@@ -1,7 +1,5 @@
 # Data-science-Final-Project-real-life-Business-Problem
-Final Project : Classification
-Congratulations on reaching to the end of the Course.
-Now its time to work on a Project based on a real life Business Problem.
+Final Project :  Project based on a real life Business Problem.
 In this Project, you will be using all the skills that you have acquired
 throughout this course.
 Problem Statement
