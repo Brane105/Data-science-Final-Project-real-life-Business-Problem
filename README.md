@@ -66,4 +66,4 @@ subscribed column of solution_checker.xlsx file.
 c. Your score will be generated automatically and will be shown in Your
 Accuracy Score column
 You can also check out the baseline Python Notebook provided to get
-started.
+started..
